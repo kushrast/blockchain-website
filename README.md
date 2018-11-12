@@ -1,6 +1,6 @@
 # blockchain-website
 1. Front Page
-- Nav bar
+- Nav bar [Done]
 - Background Image w/ Slant
 - Text Box
 - Become a Mentor/ Sign in Buttons
