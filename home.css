@@ -1,5 +1,6 @@
 #navbar {
 	height: 100px;
+	background-color: #004f99;
 }
 
 body {
@@ -32,7 +33,7 @@ body {
 	}
 
 	.shifted {
-		z-index: -1;
+		z-index: 999;
 		position: relative;
 	}
 
@@ -47,3 +48,12 @@ body {
 	}
 }
 
+.success {
+	background-color: #00994d;
+	color: white;
+}
+
+.primary {
+	background-color: #004f99;
+	color: white;
+}
